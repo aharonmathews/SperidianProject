@@ -1,0 +1,11 @@
+product_name,cost_per_unit,space_per_unit,expected_demand,supplier_lead_time,profit_margin
+Product_A,120.50,1.2,45,7,0.25
+Product_B,85.00,0.8,60,5,0.30
+Product_C,200.00,2.1,25,10,0.20
+Product_D,95.75,1.0,55,6,0.28
+Product_E,150.00,1.5,35,8,0.22
+Product_F,75.00,0.6,70,4,0.35
+Product_G,300.00,3.0,15,12,0.18
+Product_H,110.00,1.1,50,7,0.26
+Product_I,180.00,1.8,30,9,0.24
+Product_J,65.00,0.5,80,3,0.40
